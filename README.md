@@ -71,12 +71,12 @@
     <h1 align="center" width="100%">This is for you my <3 </h1>
 
     
-        <div class="col-md-12 text-center">
+       
             <img src="giphy.gif" class="bannar">
-        </div>
-    </div>
-    <div class="row cake-cover">
-        <div class="col-md-12 texr-center">
+        
+    
+    
+        
             <div class="cake">
                 <div class="velas">
                     <div class="fuego"></div>
@@ -88,9 +88,9 @@
                 <div class="cobertura"></div>
                 <div class="bizcocho"></div>
             </div>
-        </div>
-    </div>
-    <div class="row message">
+        
+    
+    
         <div class="col-md-12">
             <p>Today is 29/11/2001</p>
             <p>as beautiful as other days</p>
@@ -140,23 +140,5 @@
             <p>I'd like to wish you one more time</p>
             <p>a very happy birthday Xola Mathembisa</p>
         </div>
-    </div>
-    <div class="navbar navbar-fixed-bottom">
-        <div class="row">
-            
-        <!-- <div class="col-md-2">
-        </div>
-        <div class="col-md-2">
-        </div>
-        <div class="col-md-2">
-        </div>
-        <div class="col-md-2">
-        </div>
-        <div class="col-md-2">
-        </div> -->
-    </div>
-
-
-</div>
 </body>
 </html>
