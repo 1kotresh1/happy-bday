@@ -1,11 +1,7 @@
 # happy-bday<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="ie lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>    <html class="ie lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>    <html class="ie lt-ie9"> <![endif]-->
-<!--[if gt IE 8]> <html> <![endif]-->
-<!--[if !IE]><!--><html lang="en"><!-- <![endif]-->
+
 <head>
-    <title>Happy Birthday NEHA</title>
+    Happy Birthday NEHA
 </head>
 
 <body>
@@ -50,11 +46,11 @@
     
         
 
-    <h1 align="center" width="100%">This is for you my <3 </h1>
+                                                    This is for you my <3
 
     
        
-            <img src="giphy.gif" class="bannar">
+           
         
     
     
@@ -109,6 +105,6 @@
             fill it with your most beautiful smile
             and make it the best memory..
             lastly...
-            <p>I'd like to wish you one more time
+            I'd like to wish you one more time
             a very happy birthday Xola Mathembisa
        
