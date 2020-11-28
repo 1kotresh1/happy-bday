@@ -9,7 +9,7 @@
 </head>
 
 <body>
-<div class="loading"></div>
+
 <audio class="song" controls loop width="100" hight="50">
     <source src="foru.mp4"></source>
     Your browser isn't invited for super fun audio time.
@@ -47,26 +47,8 @@
 
 
 
-    <div class="row">
-        <div class="col-md-2 col-xs-2 bulb-holder">
-            <div class="bulb" id="bulb_yellow"></div>
-        </div>
-        <div class="col-md-2 col-xs-2 bulb-holder">
-            <div class="bulb" id="bulb_red"></div>
-        </div>
-        <div class="col-md-2 col-xs-2 bulb-holder">
-            <div class="bulb" id="bulb_blue"></div>
-        </div>
-        <div class="col-md-2 col-xs-2 bulb-holder">
-            <div class="bulb" id="bulb_green"></div>
-        </div>
-        <div class="col-md-2 col-xs-2 bulb-holder">
-            <div class="bulb" id="bulb_pink"></div>
-        </div>
-        <div class="col-md-2 col-xs-2 bulb-holder">
-            <div class="bulb" id="bulb_orange"></div>
-        </div>
-    </div>
+    
+        
 
     <h1 align="center" width="100%">This is for you my <3 </h1>
 
@@ -77,68 +59,56 @@
     
     
         
-            <div class="cake">
-                <div class="velas">
-                    <div class="fuego"></div>
-                    <div class="fuego"></div>
-                    <div class="fuego"></div>
-                    <div class="fuego"></div>
-                    <div class="fuego"></div>
-                </div>
-                <div class="cobertura"></div>
-                <div class="bizcocho"></div>
-            </div>
+           
         
     
     
-        <div class="col-md-12">
-            <p>Today is 29/11/2001</p>
-            <p>as beautiful as other days</p>
-            <p>but you realize</p>
-            <p>another year has gone</p>
-            <p>in a blink of the eyes</p>
-            <p><strong>however</strong></p>
-            <p>Do you know..?</p>
-            <p>today is just special</p>
-            <p>so special to you</p>
-            <p>that's why</p>
-            <p>Let's make it...</p>
-            <p>the best celebration ever</p>
-            <p>and let me share...</p>
-            <p>a piece of happiness to you</p>
-            <p>I made all this...</p>
-            <p>as a birthday present to you</p>
-            <p>thanks for being there</p>
-            <p>thanks for the friendship we made</p>
-            <p>thanks for everything</p>
-            <p>I wish you all the best</p>
-            <p>May your life be at ease</p>
-            <p>May all your wishes come true</p>
-            <p>Remember</p>
-            <p>your ambitions</p>
-            <p>you live as a free bird...</p>
-            <p>flying in the blue sky</p>
-            <p>Now things are different...</p>
-            <p>real story of your life</p>
-            <p>is just about to begin</p>
-            <p>indeed..</p>
-            <p>but...</p>
-            <p>don't worry</p>
-            <p>because...</p>
-            <p>God has your back</p>
-            <p>and</p>
-            <p>this year will be better</p>
-            <p>and I hope</p>
-            <p>you'll find...</p>
-            <p>happiness along the way</p>
-            <p>keep your spirit up</p>
-            <p>enjoy every single moment...</p>
-            <p>that you experience today</p>
-            <p>fill it with your most beautiful smile</p>
-            <p>and make it the best memory..</p>
-            <p>lastly...</p>
-            <p>I'd like to wish you one more time</p>
-            <p>a very happy birthday Xola Mathembisa</p>
-        </div>
-</body>
-</html>
+        
+           Today is 29/11/2001
+            as beautiful as other days
+            but you realize
+            another year has gone
+            in a blink of the eyes
+            however
+            Do you know..?
+            today is just special
+            so special to you
+            hat's why
+            let's make it...
+            the best celebration ever
+            and let me share...
+            a piece of happiness to you
+            I made all this...
+            as a birthday present to you
+            thanks for being there
+            thanks for the friendship we made
+            thanks for everything
+            I wish you all the best
+            May your life be at ease
+            May all your wishes come true
+            Remember
+            your ambitions
+            you live as a free bird...
+            flying in the blue sky
+            Now things are different...
+            real story of your life
+            is just about to begin
+            indeed..
+            but...
+            don't worry
+            because...
+            God has your back
+            and
+            this year will be better
+            and I hope
+            you'll find...
+            happiness along the way
+            keep your spirit 
+            enjoy every single moment...
+            that you experience today
+            fill it with your most beautiful smile
+            and make it the best memory..
+            lastly...
+            <p>I'd like to wish you one more time
+            a very happy birthday Xola Mathembisa
+       
