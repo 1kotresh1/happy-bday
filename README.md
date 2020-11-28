@@ -45,7 +45,7 @@
 <img src="neha(mylove).jpeg" width="100%">
 
 
-<div class="container">
+
 
     <div class="row">
         <div class="col-md-2 col-xs-2 bulb-holder">
@@ -70,7 +70,7 @@
 
     <h1 align="center" width="100%">This is for you my <3 </h1>
 
-    <div class="row">
+    
         <div class="col-md-12 text-center">
             <img src="giphy.gif" class="bannar">
         </div>
